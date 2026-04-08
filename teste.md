@@ -1,4 +1,5 @@
 # -teste_sistema_desconto
-teste de um código de um sistema de desconto em python
+"teste de um código de um sistema de desconto em python"
 TESTE01
-ENTRADA
+ENTRADA: -1
+RESULTADO_ESPERADO: mensagem de erro sem travar o sistema
